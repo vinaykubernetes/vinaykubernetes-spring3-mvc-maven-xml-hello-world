@@ -32,7 +32,7 @@
 		</c:if>
     </p>jkdb
     <p>
-		<a class="btn btn-primary btn-lg" href="#" role="button">Learn some changesgfg</a>
+		<a class="btn btn-primary btn-lg" href="#" role="button">Learn some cha</a>
 	</p>
 	</div>
 </div>
