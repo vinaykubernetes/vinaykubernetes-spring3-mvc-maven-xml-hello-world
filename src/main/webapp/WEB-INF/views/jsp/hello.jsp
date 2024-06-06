@@ -30,9 +30,9 @@
 		<c:if test="${empty name}">
 			Welcome Welcome!
 		</c:if>
-    </p>
+    </p>jkdb
     <p>
-		<a class="btn btn-primary btn-lg" href="#" role="button">Learn some changes</a>
+		<a class="btn btn-primary btn-lg" href="#" role="button">Learn some changesgfg</a>
 	</p>
 	</div>
 </div>
